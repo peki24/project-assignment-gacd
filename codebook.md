@@ -1,12 +1,12 @@
-VARIABLE NAME	VARIABLE DEFINITION	
-subject	        This study included 30 subjects within an age bracket of 19-48 years.	
-activity	There were 6 different activities: laying, sitting, standing, walking, walking downstairs, walking upstairs.	
-tbodyaccmeanx	The mean of: The time domain signal of the body accelleration in the x-axis direction.	
-tbodyaccmeany	The mean of: The time domain signal of the body accelleration in the y-axis direction.	
-tbodyaccmeanz	The mean of: The time domain signal of the body accelleration in the z-axis direction.	
-tbodyaccstdx	The standard deviation of: The time domain signal of the body accelleration in the x-axis direction.	
-tbodyaccstdy	The standard deviation of: The time domain signal of the body accelleration in the y-axis direction.	
-tbodyaccstdz	The standard deviation of: The time domain signal of the body accelleration in the z-axis direction.	
+VARIABLE NAME	        VARIABLE DEFINITION	
+subject	                This study included 30 subjects within an age bracket of 19-48 years.	
+activity	        There were 6 different activities: laying, sitting, standing, walking, walking downstairs, walking upstairs.	
+tbodyaccmeanx	        The mean of: The time domain signal of the body accelleration in the x-axis direction.	
+tbodyaccmeany	        The mean of: The time domain signal of the body accelleration in the y-axis direction.	
+tbodyaccmeanz	        The mean of: The time domain signal of the body accelleration in the z-axis direction.	
+tbodyaccstdx	        The standard deviation of: The time domain signal of the body accelleration in the x-axis direction.	
+tbodyaccstdy	        The standard deviation of: The time domain signal of the body accelleration in the y-axis direction.	
+tbodyaccstdz	        The standard deviation of: The time domain signal of the body accelleration in the z-axis direction.	
 tgravityaccmeanx	The mean of: The time domain signal of the gravitational accelleration in the x-axis direction.	
 tgravityaccmeany	The mean of: The time domain signal of the gravitational accelleration in the y-axis direction.	
 tgravityaccmeanz	The mean of: The time domain signal of the gravitational accelleration in the z-axis direction.	
@@ -19,34 +19,34 @@ tbodyaccjerkmeanz	The mean of: The body linear acceleration derived in time to o
 tbodyaccjerkstdx	The standard deviation of: The body linear acceleration derived in time to obtain Jerk signal in the x-axis direction.	
 tbodyaccjerkstdy	The standard deviation of: The body linear acceleration derived in time to obtain Jerk signal in the y-axis direction.	
 tbodyaccjerkstdz	The standard deviation of: The body linear acceleration derived in time to obtain Jerk signal in the z-axis direction.	
-tbodygyromeanx	The mean of: The time domain signal of the body angular velocity in the x-axis direction.	
-tbodygyromeany	The mean of: The time domain signal of the body angular velocity in the y-axis direction.	
-tbodygyromeanz	The mean of: The time domain signal of the body angular velocity in the z-axis direction.	
-tbodygyrostdx	The standard deviation of: The time domain signal of the body angular velocity in the x-axis direction.	
-tbodygyrostdy	The standard deviation of: The time domain signal of the body angular velocity in the y-axis direction.	
-tbodygyrostdz	The standard deviation of: The time domain signal of the body angular velocity in the z-axis direction.	
+tbodygyromeanx	        The mean of: The time domain signal of the body angular velocity in the x-axis direction.	
+tbodygyromeany	        The mean of: The time domain signal of the body angular velocity in the y-axis direction.	
+tbodygyromeanz	        The mean of: The time domain signal of the body angular velocity in the z-axis direction.	
+tbodygyrostdx	        The standard deviation of: The time domain signal of the body angular velocity in the x-axis direction.	
+tbodygyrostdy	        The standard deviation of: The time domain signal of the body angular velocity in the y-axis direction.	
+tbodygyrostdz	        The standard deviation of: The time domain signal of the body angular velocity in the z-axis direction.	
 tbodygyrojerkmeanx	The mean of: The body angular velocity derived in time to obtain Jerk signal in the x-axis direction.	
 tbodygyrojerkmeany	The mean of: The body angular velocity derived in time to obtain Jerk signal in the y-axis direction.	
 tbodygyrojerkmeanz	The mean of: The body angular velocity derived in time to obtain Jerk signal in the z-axis direction.	
 tbodygyrojerkstdx	The standard deviation of: The body angular velocity derived in time to obtain Jerk signal in the x-axis direction.	
 tbodygyrojerkstdy	The standard deviation of: The body angular velocity derived in time to obtain Jerk signal in the y-axis direction.	
 tbodygyrojerkstdz	The standard deviation of: The body angular velocity derived in time to obtain Jerk signal in the z-axis direction.	
-tbodyaccmagmean	The mean of: The magnitude (the Euclidean norm) of the time domain signal of the body accelleration.	
-tbodyaccmagstd	The standard deviation of: The magnitude (the Euclidean norm) of the time domain signal of the body accelleration.	
+tbodyaccmagmean	        The mean of: The magnitude (the Euclidean norm) of the time domain signal of the body accelleration.	
+tbodyaccmagstd	        The standard deviation of: The magnitude (the Euclidean norm) of the time domain signal of the body accelleration.	
 tgravityaccmagmean	The mean of: The magnitude (the Euclidean norm) of the time domain signal of the gravity accelleration.	
 tgravityaccmagstd	The standard deviation of: The magnitude (the Euclidean norm) of the time domain signal of the gravity accelleration.	
 tbodyaccjerkmagmean	The mean of: The magnitude (the Euclidean norm) of the time domain signal of the body accelleration.	
 tbodyaccjerkmagstd	The standard deviation of: The magnitude (the Euclidean norm) of the time domain signal of the body accelleration.	
 tbodygyromagmean	The mean of: The magnitude (the Euclidean norm) of the time domain signal of the body angular velocity.	
-tbodygyromagstd	The standard deviation of: The magnitude (the Euclidean norm) of the time domain signal of the body angular velocity.	
+tbodygyromagstd	        The standard deviation of: The magnitude (the Euclidean norm) of the time domain signal of the body angular velocity.	
 tbodygyrojerkmagmean	The mean of: The magnitude (the Euclidean norm) of the body angular velocity derived in time to obtain Jerk signal.	
 tbodygyrojerkmagstd	The standard deviation of: The magnitude (the Euclidean norm) of the body angular velocity derived in time to obtain Jerk signal.	
-fbodyaccmeanx	The mean of: The frequency domain signal of the body accelleration in the x-axis direction.	
-fbodyaccmeany	The mean of: The frequency domain signal of the body accelleration in the y-axis direction.	
-fbodyaccmeanz	The mean of: The frequency domain signal of the body accelleration in the z-axis direction.	
-fbodyaccstdx	The standard deviation of: The frequency domain signal of the body accelleration in the x-axis direction.	
-fbodyaccstdy	The standard deviation of: The frequency domain signal of the body accelleration in the y-axis direction.	
-fbodyaccstdz	The standard deviation of: The frequency domain signal of the body accelleration in the z-axis direction.	
+fbodyaccmeanx	        The mean of: The frequency domain signal of the body accelleration in the x-axis direction.	
+fbodyaccmeany	        The mean of: The frequency domain signal of the body accelleration in the y-axis direction.	
+fbodyaccmeanz	        The mean of: The frequency domain signal of the body accelleration in the z-axis direction.	
+fbodyaccstdx	        The standard deviation of: The frequency domain signal of the body accelleration in the x-axis direction.	
+fbodyaccstdy	        The standard deviation of: The frequency domain signal of the body accelleration in the y-axis direction.	
+fbodyaccstdz	        The standard deviation of: The frequency domain signal of the body accelleration in the z-axis direction.	
 fbodyaccmeanfreqx	The mean of: The frequency domain signal of the gravitational accelleration in the x-axis direction.	
 fbodyaccmeanfreqy	The mean of: The frequency domain signal of the gravitational accelleration in the y-axis direction.	
 fbodyaccmeanfreqz	The mean of: The frequency domain signal of the gravitational accelleration in the z-axis direction.	
@@ -59,25 +59,25 @@ fbodyaccjerkstdz	The standard deviation of: The body linear acceleration FFT to 
 fbodyaccjerkmeanfreqx	The mean frequency of: The body linear acceleration FFT to obtain Jerk signal in the x-axis direction.	
 fbodyaccjerkmeanfreqy	The mean frequency of: The body linear acceleration FFT to obtain Jerk signal in the y-axis direction.	
 fbodyaccjerkmeanfreqz	The mean frequency of: The body linear acceleration FFT to obtain Jerk signal in the z-axis direction.	
-fbodygyromeanx	The mean of: The frequency domain signal of the angular velocity in the x-axis direction.	
-fbodygyromeany	The mean of: The frequency domain signal of the angular velocity in the y-axis direction.	
-fbodygyromeanz	The mean of: The frequency domain signal of the angular velocity in the z-axis direction.	
-fbodygyrostdx	The standard deviation of: The frequency domain signal of the angular velocity in the x-axis direction.	
-fbodygyrostdy	The standard deviation of: The frequency domain signal of the angular velocity in the y-axis direction.	
-fbodygyrostdz	The standard deviation of: The frequency domain signal of the angular velocity in the z-axis direction.	
+fbodygyromeanx	        The mean of: The frequency domain signal of the angular velocity in the x-axis direction.	
+fbodygyromeany	        The mean of: The frequency domain signal of the angular velocity in the y-axis direction.	
+fbodygyromeanz	        The mean of: The frequency domain signal of the angular velocity in the z-axis direction.	
+fbodygyrostdx	        The standard deviation of: The frequency domain signal of the angular velocity in the x-axis direction.	
+fbodygyrostdy	        The standard deviation of: The frequency domain signal of the angular velocity in the y-axis direction.	
+fbodygyrostdz	        The standard deviation of: The frequency domain signal of the angular velocity in the z-axis direction.	
 fbodygyromeanfreqx	The mean frequency of: The frequency domain signal of the angular velocity in the x-axis direction.	
 fbodygyromeanfreqy	The mean frequency of: The frequency domain signal of the angular velocity in the y-axis direction.	
 fbodygyromeanfreqz	The mean frequency of: The frequency domain signal of the angular velocity in the z-axis direction.	
-fbodyaccmagmean	The mean of: The magnitude (the Euclidean norm) of the frequency domain signal of the body accelleration.	
-fbodyaccmagstd	The standard deviation of: The magnitude (the Euclidean norm) of the frequency domain signal of the body accelleration.	
+fbodyaccmagmean	        The mean of: The magnitude (the Euclidean norm) of the frequency domain signal of the body accelleration.	
+fbodyaccmagstd	        The standard deviation of: The magnitude (the Euclidean norm) of the frequency domain signal of the body accelleration.	
 fbodyaccmagmeanfreq	The frequency mean of: The magnitude (the Euclidean norm) of the frequency domain signal of the body accelleration.	
 fbodybodyaccjerkmagmean	The mean of: The magnitude (the Euclidean norm) of linear acceleration FFT to obtain Jerk signal.	
 fbodybodyaccjerkmagstd	The standard deviation of: The magnitude (the Euclidean norm) of linear acceleration FFT to obtain Jerk signal.	
 fbodybodyaccjerkmagmeanfreq	The frequency mean of: The magnitude (the Euclidean norm) of linear acceleration FFT to obtain Jerk signal.	
 fbodybodygyromagmean	The mean of: The magnitude (the Euclidean norm) of the frequency domain signal of the body angular velocity.	
 fbodybodygyromagstd	The standard deviation of: The magnitude (the Euclidean norm) of the frequency domain signal of the body angular velocity.	
-fbodybodygyromagmeanfreq	The frequency mean of: The magnitude (the Euclidean norm) of the frequency domain signal of the body angular velocity.	
-fbodybodygyrojerkmagmean	The mean of: The magnitude (the Euclidean norm) of  the body angular velocity FFT to obtain Jerk signal.	
+fbodybodygyromagmeanfreqThe frequency mean of: The magnitude (the Euclidean norm) of the frequency domain signal of the body angular velocity.	
+fbodybodygyrojerkmagmeanThe mean of: The magnitude (the Euclidean norm) of  the body angular velocity FFT to obtain Jerk signal.	
 fbodybodygyrojerkmagstd	The standard deviation of: The magnitude (the Euclidean norm) of  the body angular velocity FFT to obtain Jerk signal.	
 fbodybodygyrojerkmagmeanfreq	The frequency mean of: The magnitude (the Euclidean norm) of  the body angular velocity FFT to obtain Jerk signal.	
 		
